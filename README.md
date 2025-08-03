@@ -45,7 +45,7 @@ An interactive Excel dashboard that helps users explore and analyze median salar
 ## 📸 Screenshots
 
 ### 🔹 Salary Breakdown by Job Title
-![Bar Chart](Images/bar graph)
+![Bar Chart](https://github.com/Karan-Rawat2004/Salary-Calculator/blob/main/images/bar%20graph.png)
 
 ---
 
@@ -100,5 +100,6 @@ To make this README work on GitHub:
 Built as a part of personal learning in data analytics with Excel. Inspired by real-world salary analysis problems.
 
 ---
+
 
 
