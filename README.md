@@ -4,7 +4,7 @@ An interactive Excel dashboard that helps users explore and analyze median salar
 
 <br/>
 
-![Dashboard](images/full dashboard)
+![Dashboard](https://github.com/Karan-Rawat2004/Salary-Calculator/blob/main/images/full%20dashboard.png)
 
 ---
 
@@ -100,4 +100,5 @@ To make this README work on GitHub:
 Built as a part of personal learning in data analytics with Excel. Inspired by real-world salary analysis problems.
 
 ---
+
 
