@@ -50,7 +50,7 @@ An interactive Excel dashboard that helps users explore and analyze median salar
 ---
 
 ### 🌍 Global Salary Heat Map
-![Map Chart](Images/map chart)
+![Map Chart](https://github.com/Karan-Rawat2004/Salary-Calculator/blob/main/images/map%20chart.png)
 
 ---
 
@@ -100,6 +100,7 @@ To make this README work on GitHub:
 Built as a part of personal learning in data analytics with Excel. Inspired by real-world salary analysis problems.
 
 ---
+
 
 
 
